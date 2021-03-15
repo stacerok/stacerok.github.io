@@ -2282,12 +2282,12 @@
 
 			.box.features .features-row section {
 				float: left;
-				padding: 3em;
-				width: 50%;
+				/* padding: 3em; */
+				width: 100%;
 			}
 
 				.box.features .features-row section :last-child {
-					margin-bottom: 0;
+					margin-bottom: 10;
 				}
 
 				.box.features .features-row section:nth-child(2n) {
