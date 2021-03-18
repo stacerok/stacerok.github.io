@@ -1,0 +1,18 @@
+.personal-website-h2 {
+  font-family: "Bangers", cursive;
+  font-size: 100px !important;
+}
+
+.operations-manager {
+  font-family: "Inconsolata", monospace;
+  font-size: 36px !important;
+}
+
+.job-descriptions {
+  text-align: left;
+}
+
+.tech-skills {
+  font-size: larger;
+  font-weight: bold;
+}
