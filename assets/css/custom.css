@@ -1,3 +1,10 @@
+.header-picture img {
+  border-radius: 15px;
+  /* display: block; */
+  width: 63%;
+  height: 63%;
+}
+
 .personal-website-h2 {
   font-family: "Bangers", cursive;
   font-size: 100px !important;
